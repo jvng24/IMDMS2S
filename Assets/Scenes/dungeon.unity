@@ -39,7 +39,11 @@ RenderSettings:
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_IndirectSpecularColor: {r: 0.37311938, g: 0.38074005, b: 0.35872707, a: 1}
+=======
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+>>>>>>> parent of 4b622c2 (SceneSetUp)
 =======
   m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
 >>>>>>> parent of 4b622c2 (SceneSetUp)
@@ -57,7 +61,11 @@ LightmapSettings:
     m_EnvironmentLightingMode: 0
     m_EnableBakedLightmaps: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_EnableRealtimeLightmaps: 1
+=======
+    m_EnableRealtimeLightmaps: 0
+>>>>>>> parent of 4b622c2 (SceneSetUp)
 =======
     m_EnableRealtimeLightmaps: 0
 >>>>>>> parent of 4b622c2 (SceneSetUp)
@@ -80,6 +88,7 @@ LightmapSettings:
     m_FinalGatherRayCount: 256
     m_ReflectionCompression: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_MixedBakeMode: 0
     m_BakeBackend: 1
     m_PVRSampling: 1
@@ -97,6 +106,8 @@ LightmapSettings:
     m_PVRFilterTypeAO: 0
     m_PVREnvironmentMIS: 0
 =======
+=======
+>>>>>>> parent of 4b622c2 (SceneSetUp)
     m_MixedBakeMode: 2
     m_BakeBackend: 1
     m_PVRSampling: 1
@@ -113,6 +124,9 @@ LightmapSettings:
     m_PVRFilterTypeIndirect: 0
     m_PVRFilterTypeAO: 0
     m_PVREnvironmentMIS: 1
+<<<<<<< HEAD
+>>>>>>> parent of 4b622c2 (SceneSetUp)
+=======
 >>>>>>> parent of 4b622c2 (SceneSetUp)
     m_PVRCulling: 1
     m_PVRFilteringGaussRadiusDirect: 1
@@ -126,7 +140,11 @@ LightmapSettings:
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LightingSettings: {fileID: 1526997131}
+=======
+  m_LightingSettings: {fileID: 0}
+>>>>>>> parent of 4b622c2 (SceneSetUp)
 =======
   m_LightingSettings: {fileID: 0}
 >>>>>>> parent of 4b622c2 (SceneSetUp)
@@ -154,6 +172,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1001 &116685650
 PrefabInstance:
@@ -1111,6 +1130,9 @@ PrefabInstance:
 =======
 --- !u!1 &703139416
 >>>>>>> parent of 4b622c2 (SceneSetUp)
+=======
+--- !u!1 &703139416
+>>>>>>> parent of 4b622c2 (SceneSetUp)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1119,6 +1141,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 1087448398}
   - component: {fileID: 1087448397}
   - component: {fileID: 1087448396}
@@ -1126,20 +1149,30 @@ GameObject:
   m_Name: EventSystem
   m_TagString: Untagged
 =======
+=======
+>>>>>>> parent of 4b622c2 (SceneSetUp)
   - component: {fileID: 703139419}
   - component: {fileID: 703139418}
   - component: {fileID: 703139417}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
+<<<<<<< HEAD
+>>>>>>> parent of 4b622c2 (SceneSetUp)
+=======
 >>>>>>> parent of 4b622c2 (SceneSetUp)
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &1087448396
 MonoBehaviour:
+=======
+--- !u!81 &703139417
+AudioListener:
+>>>>>>> parent of 4b622c2 (SceneSetUp)
 =======
 --- !u!81 &703139417
 AudioListener:
@@ -1148,6 +1181,7 @@ AudioListener:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1087448395}
   m_Enabled: 1
@@ -1166,15 +1200,21 @@ AudioListener:
 --- !u!114 &1087448397
 MonoBehaviour:
 =======
+=======
+>>>>>>> parent of 4b622c2 (SceneSetUp)
   m_GameObject: {fileID: 703139416}
   m_Enabled: 1
 --- !u!20 &703139418
 Camera:
+<<<<<<< HEAD
+>>>>>>> parent of 4b622c2 (SceneSetUp)
+=======
 >>>>>>> parent of 4b622c2 (SceneSetUp)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1087448395}
   m_Enabled: 1
@@ -1187,6 +1227,8 @@ Camera:
   m_DragThreshold: 5
 --- !u!4 &1087448398
 =======
+=======
+>>>>>>> parent of 4b622c2 (SceneSetUp)
   m_GameObject: {fileID: 703139416}
   m_Enabled: 1
   serializedVersion: 2
@@ -1233,6 +1275,9 @@ Camera:
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
 --- !u!4 &703139419
+<<<<<<< HEAD
+>>>>>>> parent of 4b622c2 (SceneSetUp)
+=======
 >>>>>>> parent of 4b622c2 (SceneSetUp)
 Transform:
   m_ObjectHideFlags: 0
@@ -1240,21 +1285,28 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1087448395}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
 =======
+=======
+>>>>>>> parent of 4b622c2 (SceneSetUp)
   m_GameObject: {fileID: 703139416}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 1, z: -10}
+<<<<<<< HEAD
+>>>>>>> parent of 4b622c2 (SceneSetUp)
+=======
 >>>>>>> parent of 4b622c2 (SceneSetUp)
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1001 &1176923460
 PrefabInstance:
@@ -1933,6 +1985,9 @@ PrefabInstance:
 =======
 --- !u!1 &1974716738
 >>>>>>> parent of 4b622c2 (SceneSetUp)
+=======
+--- !u!1 &1974716738
+>>>>>>> parent of 4b622c2 (SceneSetUp)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1941,6 +1996,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 2048512984}
   - component: {fileID: 2048512983}
   - component: {fileID: 2048512982}
@@ -1948,10 +2004,15 @@ GameObject:
   m_Layer: 0
   m_Name: Plane
 =======
+=======
+>>>>>>> parent of 4b622c2 (SceneSetUp)
   - component: {fileID: 1974716740}
   - component: {fileID: 1974716739}
   m_Layer: 0
   m_Name: Directional Light
+<<<<<<< HEAD
+>>>>>>> parent of 4b622c2 (SceneSetUp)
+=======
 >>>>>>> parent of 4b622c2 (SceneSetUp)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1959,8 +2020,13 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &2048512981
 MeshCollider:
+=======
+--- !u!108 &1974716739
+Light:
+>>>>>>> parent of 4b622c2 (SceneSetUp)
 =======
 --- !u!108 &1974716739
 Light:
@@ -1969,6 +2035,7 @@ Light:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 2048512980}
   m_Material: {fileID: 0}
@@ -2038,6 +2105,8 @@ MeshFilter:
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!4 &2048512984
 =======
+=======
+>>>>>>> parent of 4b622c2 (SceneSetUp)
   m_GameObject: {fileID: 1974716738}
   m_Enabled: 1
   serializedVersion: 10
@@ -2095,12 +2164,16 @@ MeshFilter:
   m_ShadowRadius: 0
   m_ShadowAngle: 0
 --- !u!4 &1974716740
+<<<<<<< HEAD
+>>>>>>> parent of 4b622c2 (SceneSetUp)
+=======
 >>>>>>> parent of 4b622c2 (SceneSetUp)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 2048512980}
   serializedVersion: 2
@@ -2210,6 +2283,8 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0941535f5a7c0d846a45a6370dc4036b, type: 3}
 =======
+=======
+>>>>>>> parent of 4b622c2 (SceneSetUp)
   m_GameObject: {fileID: 1974716738}
   serializedVersion: 2
   m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
@@ -2219,11 +2294,15 @@ PrefabInstance:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+<<<<<<< HEAD
+>>>>>>> parent of 4b622c2 (SceneSetUp)
+=======
 >>>>>>> parent of 4b622c2 (SceneSetUp)
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - {fileID: 1087448398}
   - {fileID: 901050679}
@@ -2258,6 +2337,10 @@ SceneRoots:
   - {fileID: 203388265}
   - {fileID: 778544780}
   - {fileID: 2048512984}
+=======
+  - {fileID: 703139419}
+  - {fileID: 1974716740}
+>>>>>>> parent of 4b622c2 (SceneSetUp)
 =======
   - {fileID: 703139419}
   - {fileID: 1974716740}
